@@ -1,9 +1,11 @@
 name: "Samantha Peters"
 output_dir: "."
 navbar:
-  title: "My Website"
+  title: "Samantha Peters"
   left:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Projects"
+      href: projects.html
